@@ -4,8 +4,8 @@
 #
 #   include skim
 class skim {
-  package { 'Skim-1.4.3' :
+  package { 'Skim-1.4.8' :
     provider => 'appdmg',
-    source   => 'http://downloads.sourceforge.net/project/skim-app/Skim/Skim-1.4.3/Skim-1.4.3.dmg',
+    source   => 'http://downloads.sourceforge.net/project/skim-app/Skim/Skim-1.4.8/Skim-1.4.8.dmg',
   }
 }
